@@ -66,8 +66,4 @@ DISHARI addresses women's safety in public spaces using intelligent CCTV-based m
 
 This project is for educational and prototype purposes. Data privacy and ethical guidelines are strictly followed.
 
----
 
-## 📎 License
-
-MIT License
